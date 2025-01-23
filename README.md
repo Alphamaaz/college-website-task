@@ -1,0 +1,1 @@
+this is just a simple website i have created with just simple html and often use inline css for content aligment and understanding this was just a task to create a website of my college with simple html 
